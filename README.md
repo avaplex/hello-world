@@ -1,6 +1,6 @@
 # hello-world
 spr300 github
-
+Here goes 2nd edit
 this is the first try on reame file for SPR300 class by Mike Martin!
 If there are 4 people in this college who know what the hell they are talking it would be:
   Mike
